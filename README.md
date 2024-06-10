@@ -1,4 +1,4 @@
-# lifestyle
+# Lifestyle
 This project involves the development of a simple e-commerce website for an online store. The website is built using HTML, CSS, Bootstrap, PHP, and MySQL to provide both functionality and aesthetics.
 
 # Features
